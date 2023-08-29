@@ -1,0 +1,70 @@
+@media screen and (min-width : 0px) and (max-width : 1200px) {
+
+    /*Home*/
+    .container .content {
+        width: 100%;
+        text-align: center;
+    }
+
+    .twobtns {
+        justify-content: center;
+    }
+
+
+    .homeimg {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .homeimg img {
+        width: 100%
+    }
+
+    .home .grayback {
+        height: auto;
+        padding: 3rem 0rem;
+    }
+
+
+    .chefName {
+        width: 100%;
+        margin-bottom: 4rem;
+    }
+
+    .chefs .container {
+        width: 70%
+    }
+
+    .gallery .container {
+        width: 70%
+    }
+
+    .imgcontainer {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .footer .container {
+        flex-wrap: wrap;
+        gap: 0;
+    }
+
+    .left {
+        width: 50%;
+    }
+
+    .right {
+        width: 50%;
+    }
+
+    .middle {
+        width: 100%;
+        order: 2;
+    }
+
+    .card{
+        width: 100%;
+    }
+
+}
+
